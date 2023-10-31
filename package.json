@@ -10,6 +10,7 @@
 		"start": "node server.js"
 	},
 	"author": "Tawatchai Srisa",
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
